@@ -104,10 +104,6 @@ def main():
     #st.write(user_template.replace("{{MSG}}", "hello robot"), unsafe_allow_html=True)
     #st.write(bot_template.replace("{{MSG}}", "hello human"), unsafe_allow_html=True)
 
-    # "https://i.ibb.co/rdZC7LZ/Photo-logo-1.png"
-    # "https://huggingface.co/spaces/gli-mrunal/GPT_instruct_chatbot/blob/main/images/bot.jpg" 
-    # "https://huggingface.co/spaces/gli-mrunal/GPT_instruct_chatbot/blob/main/images/CSUN_Matadors_logo.svg.png"
-
     with st.sidebar:
         st.subheader("Your documents")
 
