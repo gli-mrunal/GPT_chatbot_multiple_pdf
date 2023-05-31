@@ -1,4 +1,4 @@
-# https://www.youtube.com/watch?v=dXxQ0LR-3Hg
+# GPT_chatbot
 
 # Create Conda virtual environment
 # conda create --name gpt_chatbot  python=3.9.4
